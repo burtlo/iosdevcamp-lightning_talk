@@ -1,0 +1,8 @@
+
+title "Ruby as a Second Language"
+
+description "Using Ruby and those tools to make you a better iOS developer"
+
+theme "archetect"
+
+slides "presentation.md"
